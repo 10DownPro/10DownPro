@@ -1,4 +1,4 @@
-- 👋🏽 Hi, I’m T'Vedt
+- 👋🏽 Hi, I’m T'Vedt 🙂
 - 👀 I’m interested in Web & App Development, as well as Software Development.
 - 🌱 I’m currently a student of Digital Crafts Bootcamp.
 - 💞️ I’m looking to collaborate on any dope projects.
