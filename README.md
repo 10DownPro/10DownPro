@@ -1,4 +1,5 @@
--# Hey there! I'm T'Vedt 👋
+# Hey there ! I'm T'Vedt 👋🏽🤓
+
 
 ## 👩🏽‍💻 About Me
 
@@ -28,7 +29,7 @@
 
 ---
 
-## 🚀 Fun Fact
+## ☺️ Fun Fact
 
 I built my first tech resume while still in bootcamp & landed a sysadmin role *before* graduation. I've been on a mission to keep leveling up ever since.
 
