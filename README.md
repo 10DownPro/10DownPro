@@ -1,5 +1,7 @@
 # Hey there ! I'm T'Vedt 👋🏽🤓
 
+💼 Technical Program Manager & Cyber PMO
+🔐 Focused on secure workflows, AI automation, & purpose-driven tech education.
 
 ## 👩🏽‍💻 About Me
 
